@@ -2,7 +2,7 @@
 
 A basic backend CRUD application built with MERN and GraphQL.
 
-##It has the following features:
+It has the following features:
 
 - Authentication
     - Password / Username
@@ -11,7 +11,7 @@ A basic backend CRUD application built with MERN and GraphQL.
 - Comments
 - Likes / Dislikes
 
-##The tech stack:
+The tech stack:
 
 - MongoDB
 - ExpressJS
